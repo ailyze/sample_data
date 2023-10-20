@@ -1,0 +1,136 @@
+question_number,xml_template
+1,"<data><topic name=""Influence of Dealership Culture on Financing Offer Decision"">
+
+<question>In what ways does the internal culture of the dealership affect the decision-making process regarding which financing offer to present? (e.g., Dealership's values and ethos, historical ties with specific lenders, internal targets and KPIs, sales training and guidance, adherence to dealership principles, influence from top management, consistency in decision-making across staff, ...)</question>
+
+<quote id=""quotea"">Quote a from transcript, e.g. ""Economic tides ebb &amp; flow, and currently, we're in a trough.""</quote>
+
+<essay id=""essaya"">Detailed essay elaborating on Quote a</essay>
+
+<!-- The following quotes and essays are optional. Include if relevant to the analysis. -->
+
+<quote id=""quoteb"" optional=""true"">""Quote b from transcript""</quote>
+
+<essay id=""essayb"" optional=""true"">Detailed essay elaborating on Quote b</essay>
+
+<quote id=""quotec"" optional=""true"">""Quote c from transcript""</quote>
+
+<essay id=""essayc"" optional=""true"">...</essay>
+
+<quote id=""quoted"" optional=""true"">""Quote d from transcript""</quote>
+
+<essay id=""essayd"" optional=""true"">...</essay>
+
+<!-- Be extremely detailed in the synthesis -->
+
+<synthesis id=""synthesis"">...</synthesis>
+
+</topic> </data>"
+2,"<data><topic name=""Influence of Lender Reputation on Dealer's Choice"">
+
+<question>How does the reputation and previous experience of a lender influence a Dealer's choice in presenting a financing offer? (e.g., Positive past experiences, trust in the lender's consistency, quick disbursement of funds, smooth application process, relationship with lender representatives, feedback from sales associates, negative past experiences, delayed decisions, complicated paperwork process, inconsistency in decisions, ...)</question>
+
+<quote id=""quotea"">Quote a from transcript, e.g. ""Economic tides ebb &amp; flow, and currently, we're in a trough.""</quote>
+
+<essay id=""essaya"">Detailed essay elaborating on Quote a</essay>
+
+<!-- The following quotes and essays are optional. Include if relevant to the analysis. -->
+
+<quote id=""quoteb"" optional=""true"">""Quote b from transcript""</quote>
+
+<essay id=""essayb"" optional=""true"">Detailed essay elaborating on Quote b</essay>
+
+<quote id=""quotec"" optional=""true"">""Quote c from transcript""</quote>
+
+<essay id=""essayc"" optional=""true"">...</essay>
+
+<quote id=""quoted"" optional=""true"">""Quote d from transcript""</quote>
+
+<essay id=""essayd"" optional=""true"">...</essay>
+
+<!-- Be extremely detailed in the synthesis -->
+
+<synthesis id=""synthesis"">...</synthesis>
+
+</topic> </data>"
+3,"<data><topic name=""Turnaround Time Considerations in Financing"">
+
+<question>At which specific points in the financing journey do Dealers consider the turnaround time on financing decisions? (e.g., Initial application, during the evaluation of lender options on systems like Dealertrack, waiting period after submission, after liaising with lender reps, after receiving a decision, before presenting the offer to the customer, during post-signing interactions, ...)</question>
+
+<quote id=""quotea"">Quote a from transcript, e.g. ""Economic tides ebb &amp; flow, and currently, we're in a trough.""</quote>
+
+<essay id=""essaya"">Detailed essay elaborating on Quote a</essay>
+
+<!-- The following quotes and essays are optional. Include if relevant to the analysis. -->
+
+<quote id=""quoteb"" optional=""true"">""Quote b from transcript""</quote>
+
+<essay id=""essayb"" optional=""true"">Detailed essay elaborating on Quote b</essay>
+
+<quote id=""quotec"" optional=""true"">""Quote c from transcript""</quote>
+
+<essay id=""essayc"" optional=""true"">...</essay>
+
+<quote id=""quoted"" optional=""true"">""Quote d from transcript""</quote>
+
+<essay id=""essayd"" optional=""true"">...</essay>
+
+<!-- Be extremely detailed in the synthesis -->
+
+<synthesis id=""synthesis"">...</synthesis>
+
+</topic> </data>"
+4,"<data><topic name=""Role of E-documentation in Dealer Decision-making"">
+
+<question>What role does e-documentation play in a Dealer's decision-making process when choosing a financing offer? (e.g., Preference for lenders offering e-signatures, avoidance of faxing, preference for shorter and simpler e-contracts, smooth integration with systems like Dealertrack and RouteOne, ability to quickly share documents with customers, ...)</question>
+
+<quote id=""quotea"">Quote a from transcript, e.g. ""Economic tides ebb &amp; flow, and currently, we're in a trough.""</quote>
+
+<essay id=""essaya"">Detailed essay elaborating on Quote a</essay>
+
+<!-- The following quotes and essays are optional. Include if relevant to the analysis. -->
+
+<quote id=""quoteb"" optional=""true"">""Quote b from transcript""</quote>
+
+<essay id=""essayb"" optional=""true"">Detailed essay elaborating on Quote b</essay>
+
+<quote id=""quotec"" optional=""true"">""Quote c from transcript""</quote>
+
+<essay id=""essayc"" optional=""true"">...</essay>
+
+<quote id=""quoted"" optional=""true"">""Quote d from transcript""</quote>
+
+<essay id=""essayd"" optional=""true"">...</essay>
+
+<!-- Be extremely detailed in the synthesis -->
+
+<synthesis id=""synthesis"">...</synthesis>
+
+</topic> </data>"
+5,"<data><topic name=""Impact of OEM Incentives on Dealer's Financing Offer Decision"">
+
+<question>How do different incentives given by OEMs and their rules impact the Dealer's decision about presenting a particular financing offer? (e.g., Cash incentives, discounted interest rates, extended warranty offers, loyalty bonuses, volume-based incentives, incentives based on floor plan commitments, impact on dealership profits, ...)</question>
+
+<quote id=""quotea"">Quote a from transcript, e.g. ""Economic tides ebb &amp; flow, and currently, we're in a trough.""</quote>
+
+<essay id=""essaya"">Detailed essay elaborating on Quote a</essay>
+
+<!-- The following quotes and essays are optional. Include if relevant to the analysis. -->
+
+<quote id=""quoteb"" optional=""true"">""Quote b from transcript""</quote>
+
+<essay id=""essayb"" optional=""true"">Detailed essay elaborating on Quote b</essay>
+
+<quote id=""quotec"" optional=""true"">""Quote c from transcript""</quote>
+
+<essay id=""essayc"" optional=""true"">...</essay>
+
+<quote id=""quoted"" optional=""true"">""Quote d from transcript""</quote>
+
+<essay id=""essayd"" optional=""true"">...</essay>
+
+<!-- Be extremely detailed in the synthesis -->
+
+<synthesis id=""synthesis"">...</synthesis>
+
+</topic> </data>"
